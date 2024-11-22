@@ -1,5 +1,5 @@
 export const HERO = {
-  title: " Hi, I'm Eira, your personal travel agent",
+  title: " Welcome to GoPlanner, your personal travel agent!",
   titleDescription:
     " Get custom travel plans that match your style, interests, and budget. Explore destinations and experiences just for you.",
   buttonLable: "Start Planning Your Trip for Free",
@@ -9,21 +9,21 @@ export const ABOUT_TEXT = {
   title: "Plan smarter, travel better with AI",
   buttonLable: "Plan a new trip",
   description:
-    " Meet Eira, your personal AI travel companion. From must-see destinations to perfect stays, flights, and road trips, she’s here to make vacation planning a breeze. With Eira, forget the chaos of managing multiple tabs and apps—this is the only travel tool you’ll need. Simply ask Eira for personalized destination ideas and let her craft the perfect itinerary tailored to your style and budget. Discover exclusive content from travel experts you’ll love, and watch as your customized travel plan takes shape, ensuring every moment of your trip is unforgettable.",
+    " Meet GoPlanner, your personal AI travel companion. From must-see destinations to perfect stays, flights, and road trips, she’s here to make vacation planning a breeze. With GoPlanner, forget the chaos of managing multiple tabs and apps—this is the only travel tool you’ll need. Simply ask GoPlanner for personalized destination ideas and let her craft the perfect itinerary tailored to your style and budget. Discover exclusive content from travel experts you’ll love, and watch as your customized travel plan takes shape, ensuring every moment of your trip is unforgettable.",
 };
 
 export const TESTIMONIALS = {
-  title: "Sweet Words from Happy Travelers about Eira",
+  title: "Sweet Words from Happy Travelers about GoPlanner",
   review1:
-    "Eira transformed my travel planning! The insights were spot-on, and the itineraries were perfectly tailored to my preferences. I loved the engaging videos and reels!",
+    "GoPlanner transformed my travel planning! The insights were spot-on, and the itineraries were perfectly tailored to my preferences. I loved the engaging videos and reels!",
   review2:
-    "This is the ultimate trip planner! Eira provided a wealth of information and crafted an itinerary that exceeded my expectations. The visual content was a delightful bonus!",
+    "This is the ultimate trip planner! GoPlanner provided a wealth of information and crafted an itinerary that exceeded my expectations. The visual content was a delightful bonus!",
   review3:
-    "I can't recommend Eira enough! The trip planning process was seamless, and the itineraries were packed with useful details. The videos made it even more exciting!",
+    "I can't recommend GoPlanner enough! The trip planning process was seamless, and the itineraries were packed with useful details. The videos made it even more exciting!",
   review4:
-    "Eira is a game-changer for travelers! The personalized itineraries were fantastic, and the amount of helpful information available was impressive. Loved the creative videos!",
+    "GoPlanner is a game-changer for travelers! The personalized itineraries were fantastic, and the amount of helpful information available was impressive. Loved the creative videos!",
   review5:
-    "Planning my vacation was a breeze with Eira! The itineraries were fantastic and tailored just for me. Plus, the engaging video content kept me inspired!",
+    "Planning my vacation was a breeze with GoPlanner! The itineraries were fantastic and tailored just for me. Plus, the engaging video content kept me inspired!",
 };
 
 export const CREATE_TRIP = {
@@ -99,4 +99,4 @@ export const GENERATE_TRIP_PROMPT =
 export const PHOTO_REF_URL =
   "https://places.googleapis.com/v1/{NAME}/media?maxHeightPx=2000&maxWidthPx=2000&key=AIzaSyCYJiw6Cf4JEQ_ybTzw9iXwBZOtKIKYl3s";
 
-export const FOOTER_DESCRIPTION = "© 2024 All right reserved by Eira";
+export const FOOTER_DESCRIPTION = "© 2024 All right reserved by GoPlanner";
